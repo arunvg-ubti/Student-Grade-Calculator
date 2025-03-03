@@ -7,6 +7,7 @@
  - Implement methods to calculate the average and determine the grade (A, B, C, etc.).
 */
 
+
 //Prompting the user for marks input
 Console.WriteLine("Enter the number of student marks to be entered: ");
 string number=Console.ReadLine()!;
